@@ -1,0 +1,64 @@
+/* 
+Together-1
+ */
+ body {
+    background: #B3B3B3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 125%;
+  
+  }
+  
+  p {
+    color: #FF0000;
+    font-size: 90%;
+    line-height: 2em;
+  }
+  
+  header {
+    background: #c35454;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #345567;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px
+  }
+  
+  nav {
+    font-variant: small-caps;
+    font-family: Arial, "Times New Roman", serif;
+    font-size: 150%;
+    background-color: aqua;
+  }
+  
+  h2 {
+    color: #666666;
+    background: #00b7ea;
+  }
+  
+  
+  summary {
+    font-style: normal;
+  }
+  
+  details {
+    font-style: italic;
+  }
+  
+  
+  footer {
+    background: #666666
+  }
+
+  main {
+    background-color: antiquewhite;
+    font-size: medium;
+  }
+
+  li {
+    display:inline;
+    width: fit-content;
+  }
+
